@@ -80,7 +80,7 @@ class Info
         System.out.print("\t\t\t\t\t\t\t\t------------------------------\n\n");
         System.out.print("\t\t\t\t\t\t\t\tEnter the Password: ");
         pass=scan.next();
-        if(pass.equals("Naira"))
+        if(pass.equals("Naira Sharma"))
         {
             System.out.print("\n\n\t\t\t\t\t\t\t\tAccess Granted!\n");
             pressAnyKeyToContinue();
