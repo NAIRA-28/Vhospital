@@ -4,9 +4,9 @@ import java.io.*;
 import java.time.format.DateTimeFormatter;
 import java.time.LocalDateTime;
 
-public class Ehospital
+public class Ehospital//class
 {
-    public static void main (String args[])
+    public static void main (String args[])//main funtion
     {
         Info i=new Info();
         i.login();
@@ -15,7 +15,7 @@ public class Ehospital
 }
 
 
-class Info
+class Info//calss info
 {
     Info()
     {
@@ -80,7 +80,7 @@ class Info
         System.out.print("\t\t\t\t\t\t\t\t------------------------------\n\n");
         System.out.print("\t\t\t\t\t\t\t\tEnter the Password: ");
         pass=scan.next();
-        if(pass.equals("Naira Sharma"))
+        if(pass.equals("Naira Sharma"))// password
         {
             System.out.print("\n\n\t\t\t\t\t\t\t\tAccess Granted!\n");
             pressAnyKeyToContinue();
