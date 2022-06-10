@@ -1,0 +1,14 @@
+Date of admission: 13/01/2022 22:01:39
+Name : VAIBHAV
+Address : F2 
+Contact Number : 956868568858
+Age : 21
+Sex : M
+Blood Group : AB+
+Any Major disease suffered earlier : COLD
+Patient ID : 95602322
+
+********************************************************************
+
+
+Total Bill:5887.0

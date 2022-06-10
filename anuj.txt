@@ -1,0 +1,13 @@
+Date of admission: 08/06/2022 21:21:16
+Name : anuj sharma
+Address : ahsjjd
+Contact Number : 7011733747
+Age : 22
+Sex : male
+Blood Group : ab
+Any Major disease suffered earlier : hair fall
+Patient ID : 1304
+
+********************************************************************
+
+
